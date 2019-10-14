@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">TwoCircles-Test</string>
+    <string name="title_activity_circles">CirclesActivity</string>
+</resources>
